@@ -11,6 +11,7 @@ export default class App extends React.Component {
         { id: 1, name: 'Dụng cụ trượt tuyết'},
         { id: 2, name: 'Quần áo trượt tuyết'},
         { id: 3, name: 'Kính mũ'}
+        
       ]
     }
   }
